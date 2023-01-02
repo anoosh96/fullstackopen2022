@@ -1,0 +1,13 @@
+{
+  "eslint.codeAction.showDocumentation": {
+
+    "enable": true
+  },
+
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "eslint.format.enable": true
+}
