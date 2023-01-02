@@ -1,0 +1,2479 @@
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: [object Object]
+---
+Server running on port 3001mongodb connected successfullyMethod: GETPath: /api/recordsBody: [object Object]---Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Method: POST
+Path: /api/records
+Body: [object Object]
+---
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Path: /api/records
+Body: [object Object]
+---
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Path: /api/records
+Body: [object Object]
+---
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Method: POST
+Path: /api/records
+Body: [object Object]
+---
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Method: POST
+Body: [object Object]
+Path: /api/records
+---
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Server running on port 3001
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+---
+Body: [object Object]
+Method: POST
+Path: /api/login
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Body: [object Object]
+Path: /api/login
+---
+Method: POST
+Path: /api/users
+Body: [object Object]
+---
+Method: POST
+Path: /api/login
+Body: [object Object]
+---
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Path: /api/login
+Body: [object Object]
+---
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Server running on port 3001
+Method: GET
+---
+Path: /api/records
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Server running on port 3001
+Server running on port 3001
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Path: /api/records
+Method: GET
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Path: /api/records
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Path: /api/records
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: GET
+Method: GET
+Path: /api/users
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Path: /api/records
+Method: GET
+---
+Path: /api/users
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {}
+---
+Path: /api/login
+Method: POST
+Path: /api/login
+Body: {}
+---
+Path: /api/users
+Method: GET
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: POST
+Path: /api/login
+Body: {}
+---
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/users
+---
+Path: /api/users
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: POST
+Method: POST
+Path: /api/login
+Body: {}
+---
+Path: /api/login
+---
+Method: POST
+Body: {}
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+---
+Body: {}
+Path: /api/records
+Method: POST
+Path: /api/login
+Body: {"email":"johndoe2@test.com","password":"3242342423"}
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Path: /api/records
+---
+Body: {}
+Method: GET
+Method: GET
+Path: /api/records
+Body: {}
+---
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Path: /api/login
+Method: POST
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"Jawad","number":"242342234"}
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+---
+Body: {}
+Path: /api/records
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"name":"asd","number":"123123131"}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+---
+Body: {}
+Server running on port 3001
+mongodb connected successfully
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Server running on port 3001
+mongodb connected successfully
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+---
+Body: {}
+Server running on port 3001
+mongodb connected successfully
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Body: {}
+---
+Path: /api/records
+Path: /api/records
+---
+Method: GET
+Body: {}
+Method: DELETE
+Path: /api/records/63984b293103d37aa9aa9680
+Body: {}
+---
+Server running on port 3001
+Method: GET
+Path: /api/records
+---
+Body: {}
+mongodb connected successfully
+Method: DELETE
+---
+Body: {}
+Path: /api/records/63984b293103d37aa9aa9680
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/users
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Method: DELETE
+Body: {}
+Path: /api/records/63984b293103d37aa9aa9680
+---
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Server running on port 3001
+Method: GET
+Body: {}
+Path: /api/records
+---
+mongodb connected successfully
+Server running on port 3001
+Method: GET
+Body: {}
+Path: /api/records
+---
+mongodb connected successfully
+Server running on port 3001
+Method: GET
+Body: {}
+Path: /api/records
+---
+mongodb connected successfully
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"email":"jondoe2@Test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@Test.com","password":"3242342423"}
+---
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: POST
+Path: /api/records
+---
+Method: GET
+Body: {}
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Server running on port 3001
+Method: GET
+Path: /api/records
+Body: {}
+---
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Server running on port 3001
+Method: GET
+Path: /api/records
+Body: {}
+---
+mongodb connected successfully
+mongodb connected successfully
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Path: /api/records
+Body: {}
+Method: GET
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Server running on port 3001
+Method: GET
+Path: /api/records
+Body: {}
+---
+mongodb connected successfully
+Method: DELETE
+Body: {}
+---
+Path: /api/records/63978db23103d37aa9aa964c
+Server running on port 3001
+Method: GET
+---
+Path: /api/records
+Body: {}
+mongodb connected successfully
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Server running on port 3001
+Method: GET
+Path: /api/records
+Body: {}
+---
+mongodb connected successfully
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: DELETE
+Path: /api/records/63978db23103d37aa9aa964c
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Server running on port 3001
+Method: GET
+---
+Body: {}
+Path: /api/records
+mongodb connected successfully
+Path: /api/records/63978db23103d37aa9aa964c
+Method: DELETE
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/login
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: DELETE
+Body: {}
+Path: /api/records/63984b293103d37aa9aa9680
+---
+Server running on port 3001
+Server running on port 3001
+Server running on port 3001
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+mongodb connected successfully
+Server running on port 3001
+Method: GET
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Path: /api/users
+---
+Server running on port 3001
+Path: /api/users
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+mongodb connection failed Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"Alladin1996"}
+---
+MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+Server running on port 3001
+mongodb connected successfully
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Body: {"name":"dsfd","number":"234224242"}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/records
+Body: {"name":"f","number":"1"}
+---
+ValidationError: name: invalid name, number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"ddf","number":"13242"}
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"ddf","number":"132421132"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+---
+Body: {}
+Path: /api/records
+Method: POST
+Body: {"name":"dfasfafsdfa","number":"2342423423423"}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"Jon Doe 323","number":"12312412412"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Body: {}
+Method: GET
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Body: {"name":"ffffsss","number":"2"}
+---
+Path: /api/records
+ValidationError: number: Phone Number invalid
+Method: GET
+Path: /api/records
+---
+Body: {}
+Path: /api/records
+Method: GET
+Body: {}
+---
+Path: /api/records
+---
+Method: POST
+Body: {"name":"fdsf","number":"1"}
+ValidationError: number: Phone Number invalid
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/records
+---
+Body: {"name":"asfa","number":"3"}
+ValidationError: number: Phone Number invalid
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+Method: POST
+Body: {"name":"asda","number":"342"}
+---
+ValidationError: number: Phone Number invalid
+Path: /api/records
+---
+Method: GET
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: POST
+Body: {"name":"asdad","number":"3"}
+---
+ValidationError: number: Phone Number invalid
+Body: {}
+Method: GET
+---
+Path: /api/records
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: DELETE
+Body: {}
+---
+Path: /api/records/639c6e927f903c831e811c65
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: DELETE
+Path: /api/records/639c6d007f903c831e811c37
+---
+Body: {}
+Method: DELETE
+Path: /api/records/639c6e567f903c831e811c58
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"fdsfas","number":"234234234234"}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+JsonWebTokenError: jwt must be provided
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: POST
+Path: /api/records
+Body: {"name":"dsfd","number":"4343434"}
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"asdas","number":"323"}
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Body: {"name":"sada","number":"2323"}
+---
+Path: /api/records
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"sd3","number":"3"}
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"sd","number":"324"}
+---
+ValidationError: name: invalid name, number: Phone Number invalid
+Method: POST
+---
+Path: /api/records
+Body: {"name":"sdf","number":"43"}
+ValidationError: number: Phone Number invalid
+Method: POST
+Body: {"name":"asd","number":"23"}
+Path: /api/records
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Body: {"name":"asd","number":"23"}
+Path: /api/records
+---
+ValidationError: number: Phone Number invalid
+Path: /api/records
+---
+Method: POST
+Body: {"name":"asd","number":"123"}
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Path: /api/login
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Path: /api/login
+Method: POST
+Body: {"name":"sdasd","number":"23"}
+---
+Path: /api/records
+ValidationError: number: Phone Number invalid
+Method: POST
+Body: {"name":"sdasd","number":"232323232344"}
+---
+Path: /api/records
+Method: POST
+Path: /api/records
+Body: {"name":"afff","number":"234234111"}
+---
+Method: POST
+---
+Path: /api/records
+Body: {"name":"sad","number":"123124444"}
+Method: POST
+Body: {"name":"asd","number":"12"}
+Path: /api/records
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"asd","number":"121231231231"}
+---
+---
+Path: /api/records
+Method: POST
+Body: {"name":"asd","number":"25232342"}
+Method: POST
+Path: /api/records
+---
+Body: {"name":"asda","number":"234234111"}
+Method: POST
+Body: {"name":"Ahmed","number":"234"}
+---
+Path: /api/records
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"Ahmed","number":"234323111"}
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+JsonWebTokenError: jwt must be provided
+Method: GET
+Body: {}
+Path: /api/records
+---
+JsonWebTokenError: jwt must be provided
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Body: {}
+---
+Path: /api/records
+JsonWebTokenError: jwt malformed
+Method: GET
+Body: {}
+---
+Path: /api/records
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+---
+Path: /api/records
+Body: {}
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Method: GET
+---
+Body: {}
+Path: /api/records
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: POST
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt malformed
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"name":"dsfd","number":"3233231332"}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Server running on port 3001
+mongodb connected successfully
+Path: /api/records
+Method: GET
+---
+Body: {}
+JsonWebTokenError: jwt must be provided
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt must be provided
+Method: GET
+---
+Path: /api/users
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt must be provided
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a05c827f903c831e811d1a
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a05a627f903c831e811d02
+Body: {}
+---
+Method: DELETE
+Body: {}
+Path: /api/records/63a05c6d7f903c831e811d14
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /main.89343c8bf2f3f0ada012.hot-update.json
+Body: {}
+---
+Method: POST
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+---
+Path: /api/login
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/login
+---
+Method: POST
+Body: {"email":"jondoe2@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/records
+---
+Body: {"name":"Jawad","number":"23423555"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+---
+Body: {}
+Path: /api/records
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Path: /api/records
+Body: {}
+Method: GET
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: DELETE
+Path: /api/records/63a05bd47f903c831e811d10
+Body: {}
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+---
+Body: {"name":"Ahmed","number":"34"}
+ValidationError: number: Phone Number invalid
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"name":"asd","number":"4"}
+---
+Path: /api/records
+ValidationError: number: Phone Number invalid
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: POST
+Path: /api/records
+Body: {"name":"asd","number":"34353535344"}
+---
+Method: POST
+---
+Path: /api/records
+Body: {"name":"fggg","number":"535343434"}
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/records
+Body: {"name":"fdsdsfds","number":"23432423423"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"sdsfa","number":"3242324342342"}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+---
+Body: {"name":"lfdsf","number":"2342342342325"}
+Method: POST
+Method: GET
+Body: {}
+Path: /api/records
+---
+Path: /api/records
+Body: {}
+---
+Method: GET
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"Fawd","number":"23532525252255"}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Path: /api/records
+Path: /api/records
+Body: {}
+Method: GET
+---
+Method: DELETE
+Path: /api/records/63a34aa0c3c771f61ab4c442
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a34a91c3c771f61ab4c432
+Body: {}
+---
+Method: GET
+Path: /main.1f597eb06adcb3912a2f.hot-update.json
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Path: /api/records
+Body: {"name":"ALi","number":"234234234234"}
+Method: POST
+---
+Method: GET
+---
+Body: {}
+Path: /api/records
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a58304c3c771f61ab4c45f
+---
+Body: {}
+Method: POST
+Path: /api/records
+---
+Body: {"name":"Jawaddd","number":"3424232423"}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Server running on port 3001
+mongodb connected successfully
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: POST
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Method: GET
+Body: {}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Method: GET
+Body: {}
+Path: /api/records
+---
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"eewe"}
+---
+Method: POST
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt must be provided
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"dsfaf"}
+---
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Path: /api/records
+Method: GET
+Body: {}
+---
+JsonWebTokenError: jwt must be provided
+Method: POST
+Path: /api/login
+Body: {"email":"jondoe@test.com","password":"dsff"}
+---
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Method: POST
+Path: /api/login
+Body: {"email":"asd","password":"3"}
+---
+TypeError: Cannot read properties of null (reading '_id')
+Method: GET
+Path: /api/records
+---
+Body: {}
+JsonWebTokenError: jwt must be provided
+Method: POST
+Body: {"email":"jondoe@test.com","password":"2323"}
+Path: /api/login
+---
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Body: {}
+Method: GET
+---
+Path: /api/records
+JsonWebTokenError: jwt must be provided
+Method: GET
+Path: /api/records
+Body: {}
+---
+JsonWebTokenError: jwt must be provided
+Body: {}
+Path: /api/records
+Method: GET
+---
+JsonWebTokenError: jwt must be provided
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"dsff"}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+---
+Path: /api/login
+Method: GET
+Body: {}
+---
+Path: /api/records
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"sda"}
+Method: POST
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: POST
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/login
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"Kish","number":"534"}
+---
+ValidationError: number: Phone Number invalid
+Method: POST
+Path: /api/records
+Body: {"name":"Kish","number":"53454644564"}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/records
+Body: {"name":"Jickk","number":"32424234242324"}
+---
+Method: GET
+---
+Path: /api/records
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Body: {"email":"","password":""}
+Path: /api/login
+---
+TypeError: Cannot read properties of null (reading '_id')
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: GET
+Path: /api/records
+---
+Body: {}
+Body: {}
+---
+Method: GET
+Path: /api/records
+Method: GET
+Path: /api/records
+---
+Body: {}
+Method: DELETE
+---
+Path: /api/records/639c6dab7f903c831e811c48
+Body: {}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: DELETE
+Path: /api/records/639c75f67f903c831e811ce2
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a9aa769dfed622efe9a3a4
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: GET
+Body: {}
+---
+Path: /api/records
+Path: /api/records
+Method: GET
+---
+Body: {}
+Method: GET
+Body: {}
+---
+Path: /api/records
+Method: DELETE
+Path: /api/records/63a05a827f903c831e811d06
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a9a9d99dfed622efe9a39a
+---
+Body: {}
+Method: POST
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Path: /api/login
+Method: GET
+Path: /api/records
+Body: {}
+---
+Method: POST
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: GET
+Path: /api/records
+Body: {}
+---
+Body: {}
+---
+Method: DELETE
+Path: /api/records/63a05a3c7f903c831e811cfe
+Method: DELETE
+Body: {}
+Path: /api/records/63a584e5c3c771f61ab4c490
+---
+Path: /api/login
+---
+Body: {"email":"jondoe@test.com","password":"3242342423"}
+Method: POST
+Method: GET
+Path: /api/records
+Body: {}
+---
+Path: /api/records
+Body: {}
+---
+Method: GET
