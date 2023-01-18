@@ -1,0 +1,25 @@
+.container{
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.blog-container{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  background-color: #eeeeff;
+  margin-bottom: 10px;
+}
+
+nav ul{
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
